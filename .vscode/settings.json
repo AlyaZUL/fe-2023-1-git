@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'Iosevka Term HvExObL','Droid Sans Mono', 'monospace', monospace",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "wordWrapColumn",
+    "diffEditor.wordWrap": "inherit",
+    "editor.wordWrapColumn": 120
+}
